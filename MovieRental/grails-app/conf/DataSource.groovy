@@ -14,19 +14,19 @@ environments {
     development {
         dataSource {
             dbCreate = "update" 
-            url = "jdbc:postgresql://localhost/MovieRental"
+            url = "jdbc:postgresql://localhost/movierental"
         }
     }
     test {
         dataSource {
             dbCreate = "update"
-            url = "jdbc:postgresql://localhost/MovieRental"
+            url = "jdbc:postgresql://localhost/movierental"
         }
     }
     production {
         dataSource {
             dbCreate = "update"
-            url = "jdbc:postgresql://localhost/MovieRental"
+            url = "jdbc:postgresql://localhost/movierental"
             pooled = true
             properties {
                maxActive = -1

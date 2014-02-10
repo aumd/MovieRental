@@ -1,4 +1,4 @@
-package movierental
+package MovieRental
 
 class RentedMovie {
 
