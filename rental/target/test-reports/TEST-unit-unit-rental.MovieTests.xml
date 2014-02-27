@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="LYUR" name="rental.MovieTests" tests="3" time="1.625" timestamp="2014-02-27T16:44:38">
+  <properties />
+  <testcase classname="rental.MovieTests" name="testIfMovieIsRented" time="1.521" />
+  <testcase classname="rental.MovieTests" name="testIfMovieIsAvailable" time="0.054" />
+  <testcase classname="rental.MovieTests" name="testIfMovieListIsEmpty" time="0.012" />
+  <system-out><![CDATA[--Output from testIfMovieIsRented--
+--Output from testIfMovieIsAvailable--
+--Output from testIfMovieListIsEmpty--
+]]></system-out>
+  <system-err><![CDATA[--Output from testIfMovieIsRented--
+--Output from testIfMovieIsAvailable--
+--Output from testIfMovieListIsEmpty--
+]]></system-err>
+</testsuite>

@@ -1,0 +1,3 @@
+--Output from testIfMovieIsRented--
+--Output from testIfMovieIsAvailable--
+--Output from testIfMovieListIsEmpty--
