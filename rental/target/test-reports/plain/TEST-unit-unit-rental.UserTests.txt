@@ -1,0 +1,22 @@
+Testsuite: rental.UserTests
+Tests run: 5, Failures: 0, Errors: 0, Time elapsed: 1.72 sec
+------------- Standard Output ---------------
+--Output from testMockDomain--
+--Output from testUniqueLogin--
+--Output from testMockGorm--
+--Output from testBlank--
+--Output from testPassword--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testMockDomain--
+--Output from testUniqueLogin--
+--Output from testMockGorm--
+--Output from testBlank--
+--Output from testPassword--
+------------- ---------------- ---------------
+
+Testcase: testMockDomain took 1.468 sec
+Testcase: testUniqueLogin took 0.13 sec
+Testcase: testMockGorm took 0.044 sec
+Testcase: testBlank took 0.019 sec
+Testcase: testPassword took 0.019 sec
