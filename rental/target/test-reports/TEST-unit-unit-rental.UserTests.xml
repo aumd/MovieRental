@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="LYUR" name="rental.UserTests" tests="5" time="1.72" timestamp="2014-02-27T15:40:02">
+<testsuite errors="0" failures="0" hostname="LYUR" name="rental.UserTests" tests="5" time="2.156" timestamp="2014-02-28T05:07:12">
   <properties />
-  <testcase classname="rental.UserTests" name="testMockDomain" time="1.468" />
-  <testcase classname="rental.UserTests" name="testUniqueLogin" time="0.13" />
-  <testcase classname="rental.UserTests" name="testMockGorm" time="0.044" />
-  <testcase classname="rental.UserTests" name="testBlank" time="0.019" />
-  <testcase classname="rental.UserTests" name="testPassword" time="0.019" />
-  <system-out><![CDATA[--Output from testMockDomain--
+  <testcase classname="rental.UserTests" name="testMockGorm" time="1.716" />
+  <testcase classname="rental.UserTests" name="testMockDomain" time="0.147" />
+  <testcase classname="rental.UserTests" name="testUniqueLogin" time="0.108" />
+  <testcase classname="rental.UserTests" name="testPassword" time="0.042" />
+  <testcase classname="rental.UserTests" name="testBlank" time="0.039" />
+  <system-out><![CDATA[--Output from testMockGorm--
+--Output from testMockDomain--
 --Output from testUniqueLogin--
---Output from testMockGorm--
---Output from testBlank--
 --Output from testPassword--
+--Output from testBlank--
 ]]></system-out>
-  <system-err><![CDATA[--Output from testMockDomain--
+  <system-err><![CDATA[--Output from testMockGorm--
+--Output from testMockDomain--
 --Output from testUniqueLogin--
---Output from testMockGorm--
---Output from testBlank--
 --Output from testPassword--
+--Output from testBlank--
 ]]></system-err>
 </testsuite>

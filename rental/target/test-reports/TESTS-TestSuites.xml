@@ -1,22 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites>
-  <testsuite errors="0" failures="0" hostname="LYUR" id="0" name="MovieTests" package="rental" tests="3" time="1.625" timestamp="2014-02-27T16:44:38">
+  <testsuite errors="0" failures="0" hostname="LYUR" id="0" name="UserTests" package="rental" tests="5" time="2.156" timestamp="2014-02-28T05:07:12">
       <properties />
 
-      <testcase classname="rental.MovieTests" name="testIfMovieIsRented" time="1.521" />
+      <testcase classname="rental.UserTests" name="testMockGorm" time="1.716" />
 
-      <testcase classname="rental.MovieTests" name="testIfMovieIsAvailable" time="0.054" />
+      <testcase classname="rental.UserTests" name="testMockDomain" time="0.147" />
 
-      <testcase classname="rental.MovieTests" name="testIfMovieListIsEmpty" time="0.012" />
+      <testcase classname="rental.UserTests" name="testUniqueLogin" time="0.108" />
 
-      <system-out><![CDATA[--Output from testIfMovieIsRented--
---Output from testIfMovieIsAvailable--
---Output from testIfMovieListIsEmpty--
+      <testcase classname="rental.UserTests" name="testPassword" time="0.042" />
+
+      <testcase classname="rental.UserTests" name="testBlank" time="0.039" />
+
+      <system-out><![CDATA[--Output from testMockGorm--
+--Output from testMockDomain--
+--Output from testUniqueLogin--
+--Output from testPassword--
+--Output from testBlank--
 ]]></system-out>
 
-      <system-err><![CDATA[--Output from testIfMovieIsRented--
---Output from testIfMovieIsAvailable--
---Output from testIfMovieListIsEmpty--
+      <system-err><![CDATA[--Output from testMockGorm--
+--Output from testMockDomain--
+--Output from testUniqueLogin--
+--Output from testPassword--
+--Output from testBlank--
 ]]></system-err>
 
   </testsuite>
