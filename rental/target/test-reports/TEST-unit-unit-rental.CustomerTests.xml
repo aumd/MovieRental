@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="LYUR" name="rental.CustomerTests" tests="1" time="0.681" timestamp="2014-03-18T05:34:22">
+  <properties />
+  <testcase classname="rental.CustomerTests" name="testBlankCustomerField" time="0.676" />
+  <system-out><![CDATA[--Output from testBlankCustomerField--
+]]></system-out>
+  <system-err><![CDATA[--Output from testBlankCustomerField--
+]]></system-err>
+</testsuite>

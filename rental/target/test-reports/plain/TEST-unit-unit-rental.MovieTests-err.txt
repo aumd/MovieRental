@@ -1,0 +1,4 @@
+--Output from testIfMovieIsRented--
+--Output from testBlankMovieField--
+--Output from testIfMovieListIsEmpty--
+--Output from testIfMovieIsAvailable--

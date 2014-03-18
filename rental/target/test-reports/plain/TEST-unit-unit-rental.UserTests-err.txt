@@ -1,5 +1,5 @@
 --Output from testMockGorm--
+--Output from testBlank--
+--Output from testPassword--
 --Output from testMockDomain--
 --Output from testUniqueLogin--
---Output from testPassword--
---Output from testBlank--

@@ -1,0 +1,10 @@
+Testsuite: rental.CustomerTests
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0.681 sec
+------------- Standard Output ---------------
+--Output from testBlankCustomerField--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testBlankCustomerField--
+------------- ---------------- ---------------
+
+Testcase: testBlankCustomerField took 0.676 sec

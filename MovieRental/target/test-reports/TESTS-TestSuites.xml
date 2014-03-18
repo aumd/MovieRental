@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="Ken-PC" id="0" name="ClerkControllerTests" package="movierental" tests="1" time="2.793" timestamp="2013-04-01T04:03:42">
+      <properties />
+
+      <testcase classname="movierental.ClerkControllerTests" name="testSomething" time="2.606" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="Ken-PC" id="1" name="MainControllerTests" package="movierental" tests="1" time="0.546" timestamp="2013-04-01T04:03:45">
+      <properties />
+
+      <testcase classname="movierental.MainControllerTests" name="testSomething" time="0.312" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="Ken-PC" id="2" name="UserControllerTests" package="movierental" tests="1" time="0.405" timestamp="2013-04-01T04:03:46">
+      <properties />
+
+      <testcase classname="movierental.UserControllerTests" name="testSomething" time="0.405" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+</testsuites>

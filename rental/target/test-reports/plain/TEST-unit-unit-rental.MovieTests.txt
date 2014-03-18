@@ -1,0 +1,19 @@
+Testsuite: rental.MovieTests
+Tests run: 4, Failures: 0, Errors: 0, Time elapsed: 1.556 sec
+------------- Standard Output ---------------
+--Output from testIfMovieIsRented--
+--Output from testBlankMovieField--
+--Output from testIfMovieListIsEmpty--
+--Output from testIfMovieIsAvailable--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testIfMovieIsRented--
+--Output from testBlankMovieField--
+--Output from testIfMovieListIsEmpty--
+--Output from testIfMovieIsAvailable--
+------------- ---------------- ---------------
+
+Testcase: testIfMovieIsRented took 1.324 sec
+Testcase: testBlankMovieField took 0.045 sec
+Testcase: testIfMovieListIsEmpty took 0.095 sec
+Testcase: testIfMovieIsAvailable took 0.065 sec
